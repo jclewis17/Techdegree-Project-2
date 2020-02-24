@@ -1,3 +1,34 @@
-h1 {
-  color: orange;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-color: tomato;
+}
+
+.main-header {
+  margin-top: 30px;
+}
+
+.main-nav {
+  background-color: white;
+  margin: 0 15px;
+}
+
+.nav {
+  list-style-type: none;
+
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+li {
+  margin-bottom: 10px;
 }
