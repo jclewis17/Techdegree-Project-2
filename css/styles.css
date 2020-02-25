@@ -7,28 +7,21 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  background-color: tomato;
+  background-color: gray;
 }
 
 .main-header {
   margin-top: 30px;
 }
 
-.main-nav {
+.main-nav li {
   background-color: white;
-  margin: 0 15px;
-}
-
-.nav {
+  margin: 6px 0;
   list-style-type: none;
-
+  display: block;
 }
 
 a {
   text-decoration: none;
   color: black;
-}
-
-li {
-  margin-bottom: 10px;
 }
