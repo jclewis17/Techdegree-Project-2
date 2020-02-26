@@ -9,11 +9,34 @@ body {
   padding: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
-  background-color: gray;
+  background-color: #f4f4f4;
+}
+
+p {
+  font-weight: lighter;
+  margin
+}
+
+
+h3 {
+  font-weight: normal;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
+a {
+  text-decoration: none;
+  color: #000;
 }
 
 .main-header {
   margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.name {
+  margin-bottom: 30px;
 }
 
 .main-nav li {
@@ -21,9 +44,28 @@ body {
   margin: 6px 10px;
   list-style-type: none;
   display: block;
+  padding: 10px 0;
 }
 
-a {
-  text-decoration: none;
-  color: black;
+a:hover {
+  color: #343434;
+}
+
+.profile-img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.intro-txt {
+  margin: 0 10px;
+  color: #17BEF7;
+}
+
+.main-content {
+  background-color: #fff;
+  padding-top: 50px;
+}
+
+.portfolio-pics {
+  margin-top: 50px;
 }
