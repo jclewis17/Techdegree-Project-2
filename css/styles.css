@@ -14,7 +14,6 @@ body {
 
 p {
   font-weight: lighter;
-  margin
 }
 
 
@@ -93,11 +92,11 @@ a:hover {
 }
 
 .contact-info li.phone a {
-  background-image: url('images/phone.png');
+  background-image: url('../images/phone.png');
 }
 
 .contact-info li.mail a {
-  background-image: url('images/mail.png');
+  background-image: url('../images/mail.png');
 }
 
 .mail {
@@ -106,3 +105,4 @@ a:hover {
 
 .add-heading {
   padding: 50px 0;
+}
