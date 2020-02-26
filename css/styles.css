@@ -74,7 +74,6 @@ a:hover {
 }
 
 .contact {
-  background-color: #fff;
   padding: 0 10px 50px 10px;
 }
 
@@ -83,7 +82,6 @@ a:hover {
 }
 
 .contact-info a {
-  display: block;
   min-height: 20px;
   background-repeat: no-repeat;
   background-size: 20px 20px;
@@ -105,4 +103,28 @@ a:hover {
 
 .add-heading {
   padding: 50px 0;
+}
+
+.main-footer {
+  padding-top: 30px;
+  border-top: 1px #D4D4D4 solid;
+  margin-left: 1em;
+  margin-right: 1em;
+  padding-bottom: 40px;
+}
+
+.footer-nav li {
+  display: none;
+}
+
+.back-top {
+  list-style-type: none;
+  display: inline-block;
+  font-weight: bold;
+  float: right;
+}
+
+.footer-name {
+  font-weight: bold;
+  float: left;
 }
