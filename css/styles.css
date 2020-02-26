@@ -63,9 +63,46 @@ a:hover {
 
 .main-content {
   background-color: #fff;
-  padding-top: 50px;
+  padding: 50px 10px;
 }
 
 .portfolio-pics {
   margin-top: 50px;
 }
+
+.about {
+  margin: 0 10px 50px 10px;
+}
+
+.contact {
+  background-color: #fff;
+  padding: 0 10px 50px 10px;
+}
+
+.contact-info {
+  margin-top: 30px;
+}
+
+.contact-info a {
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+}
+
+.contact-info li.phone a {
+  background-image: url('images/phone.png');
+}
+
+.contact-info li.mail a {
+  background-image: url('images/mail.png');
+}
+
+.mail {
+  margin-top: 10px;
+}
+
+.add-heading {
+  padding: 50px 0;
