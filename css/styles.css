@@ -172,6 +172,7 @@ MEDIA QUERIES
   .main-nav li {
     display: inline-block;
     background-color: #f4f4f4;
+    margin-bottom: 20px;
   }
 
   .profile-img {
